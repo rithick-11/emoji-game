@@ -1,0 +1,19 @@
+.emoji-game-container {
+  min-height: 100vh;
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  color: #fff;
+  font-family: 'roboto';
+}
+.container {
+  width: 80%;
+  margin: 0px auto;
+}
+.emoij-list {
+  padding: 0px;
+  margin: 0px auto;
+  list-style: none;
+  display: grid;
+  width: fit-content;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}

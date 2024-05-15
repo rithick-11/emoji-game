@@ -1,0 +1,12 @@
+.emoji-item {
+  background-color: #ffffff33;
+  padding: 1rem;
+  border: 1px solid #ffffff;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.emoji-item button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}

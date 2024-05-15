@@ -1,0 +1,11 @@
+.nav-container {
+  padding: 1rem 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-logo,
+.game-score {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
